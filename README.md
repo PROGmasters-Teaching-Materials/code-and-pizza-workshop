@@ -58,7 +58,8 @@ Szükséges lépések:
     ```
 3. Nyisd meg a következő jsbin linket: https://jsbin.com/qehataz/2/edit?html,js,output
 
-4. Cseréld ki a bemásolt kódban az API_KEY változó értékét a korábban létrehozott kulcsoddal
+4. A Javascript forráskód 4-dik sorában cseréld ki a bemásolt kódban az API_KEY változó értékét a korábban létrehozott kulcsoddal
+Ehhez hasonló keress!: 
 ```js
 const API_KEY = "IDE MÁSOD A KULCSOT!!!";
 ```
