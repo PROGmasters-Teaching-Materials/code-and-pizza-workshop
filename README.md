@@ -56,7 +56,7 @@ Szükséges lépések:
     ```
     https://platform.openai.com/account/api-keys
     ```
-3. Nyisd meg a következő jsbin linket: https://jsbin.com/qehataz/1/edit?html,js,output
+3. Nyisd meg a következő jsbin linket: https://jsbin.com/qehataz/2/edit?html,js,output
 
 4. Cseréld ki a bemásolt kódban az API_KEY változó értékét a korábban létrehozott kulcsoddal
 ```js
